@@ -1,6 +1,6 @@
 # CyberFlow
 
-A dark near-black-blue theme for [Nimbalyst](https://nimbalyst.com) with a teal accent, purple-tinted neutrals, and a light-blue syntax highlight.
+A dark theme for [Nimbalyst](https://nimbalyst.com) with a teal accent, purple-tinted neutrals, and a light-blue syntax highlight.
 
 ![CyberFlow in the agent view](screenshot-agent-view.png)
 
